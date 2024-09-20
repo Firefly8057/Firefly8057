@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Firefly8057
-- 👀 I’m interested in blah blah blah
+- 👋 Hi, I’m @Firefly
+- 👀 I’m interested in 
 - 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on 😉😉😉
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me when iam online
 
 <!---
